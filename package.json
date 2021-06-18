@@ -1,0 +1,14 @@
+{
+  "name": "imersaocypress",
+  "version": "1.0.0",
+  "description": "Imersao de Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Eduarda",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.5.0"
+  }
+}
